@@ -1,6 +1,5 @@
 tmp/
-_old
-_backup
 .DS_Store
 Thumbs.db
-index.html_old
+*old
+*_backup
